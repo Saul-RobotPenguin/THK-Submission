@@ -1,0 +1,49 @@
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bolder;
+  color: #66BFBF;
+  font-size: 4.5rem
+}
+
+h3 {
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: bold;
+  color: #66BFBF;
+  text-align: center;
+}
+
+body {
+    background-color: #e0ffff;
+}
+
+hr {
+  /* Extra code provided by stack overflow */
+  border: none;
+  border-top: 1px solid black;
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+p{
+  font-family: 'Open Sans', sans-serif;
+}
+
+em {
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: lighter;
+}
+
+
+
+
+.logos-resize {
+  width: 3%;
+  height: 7%;
+  margin: 3%;
+  margin-right: 8%;
+  text-align: center;
+}

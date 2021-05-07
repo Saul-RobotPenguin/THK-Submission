@@ -1,0 +1,8 @@
+4. var setOfNumbers =[1,2,3,5,26]
+   for (i=0;i<setOfNumbers.length;i++)
+   if (setOfNumbers[i] > 25)	{
+   console.log("over")
+   }
+   else{
+   console.log("under")
+   }

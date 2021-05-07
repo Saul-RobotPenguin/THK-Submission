@@ -1,0 +1,3 @@
+6.var array = [ "Retta", "Vern", "Marica", "Cyrus",  "Linette", "Curt", "Nichole", "Jesica", "Wynell", "Michaele" ]
+array.sort(function(a, b){return b.length - a.length});
+console.log(array[0])
